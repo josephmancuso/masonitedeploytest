@@ -2,5 +2,5 @@ waitress==1.1.0
 masonite>=2.0,<=2.0.99
 masonite_cli
 gunicorn
-postgres-binary
+psycopg2-binary
 masonite_deploy==0.0.1
